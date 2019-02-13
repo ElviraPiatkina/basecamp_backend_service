@@ -1,0 +1,19 @@
+{
+  "name": "tv-shows",
+  "version": "1.0.0",
+  "description": "tv shows library",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Elvira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
